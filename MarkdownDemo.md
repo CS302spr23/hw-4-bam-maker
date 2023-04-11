@@ -48,4 +48,4 @@ if you are under 19 you must ask permission from  ![here](https://www.google.com
 
 #### Check out my [profile README](./README.md)!
 
-#### Check out the things I don't understand about Git [Here](https://github.com/CS302spr23/hw-4-bam-maker/blob/my-understanding-of-git/ThingsIDontUnderstand.md)
+#### Check out the things I don't understand about Git [Here](./ThingsIDontUnderstand.md)
